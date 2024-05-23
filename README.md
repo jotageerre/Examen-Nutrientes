@@ -6,7 +6,7 @@ Una vez se ha puesto en marcha la primera versión de Deliver US, los inversores
 1.- Debido a la normativa reguladora de alimentación, se pide que se informe al cliente de la cantidad de carbohidratos, proteínas y grasas por cada 100 gramos de cada uno de los productos que están a la venta en Deliver US.
 
 2.- Dada la existencia de platos hipercalóricos que no están recomendados en una dieta saludable se pide que un plato no pueda contener más de 1000 calorías por 100g de producto. Para ello, se usará la siguiente formula aproximada de cálculo energético
-Calorías producto = (grasas *9)+(proteínas * 4)+(carbohidratos * 4)
+Calorías producto = (grasas *9) + (proteínas * 4)+(carbohidratos * 4)
 
 Se pide que:
 
@@ -16,21 +16,7 @@ Se pide que:
 
 3.- Muestre los datos de calorías por 100g, carbohidratos, proteínas y grasas en cada uno de los productos que se muestran en la pantalla RestaurantDetailScreen.
 
-Nota: No es necesario modificar los seeders. Recuerde que los valores numéricos enviados por el frontend, llegan al backend como string cuando se usan TextInputs en el componente InputItem. No olvide realizar un casting a float de dichos valores para que el backend los trate sin problema
-
-### Ejercicio 1
-
-Realice todos los cambios necesarios en el proyecto de backend para implementar el nuevo requisito.
-
-### Ejercicio 2
-
-Realice todos los cambios necesarios en el proyecto de frontend para implementar el nuevo requisito.
-
-![captura1](https://user-images.githubusercontent.com/19324988/235651836-d57d9c7e-4b8d-46a2-9154-b414a7abf702.png)
-
-![captura2](https://user-images.githubusercontent.com/19324988/235651849-4d03c7d9-f332-4952-8cbc-9fa5db4f97fb.png)
-
-![captura3](https://user-images.githubusercontent.com/19324988/235651853-e1d13916-4f47-4e17-97e0-5696b647bee7.png)
+Nota: No es necesario modificar los seeders. Recuerde que los valores numéricos enviados por el frontend, llegan al backend como string cuando se usan TextInputs en el componente InputItem. No olvide realizar un casting a float de dichos valores para que el backend los trate sin problema.
 
 ## Introducción
 
