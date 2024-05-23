@@ -1,6 +1,6 @@
-# IISSI-2 IS: Simulacro de examen de laboratorio
+# Examen - Nutrientes saludables
 
-## Enunciado - Nutrientes saludables
+## Enunciado 
 Una vez se ha puesto en marcha la primera versión de Deliver US, los inversores han solicitado la inclusión de una nueva funcionalidad que consiste en informar al cliente de los gramos de macronutrientes que contienen cada uno de los productos. Tras la reunión con el cliente, se ha establecido los siguientes requisitos:
 
 1.- Debido a la normativa reguladora de alimentación, se pide que se informe al cliente de la cantidad de carbohidratos, proteínas y grasas por cada 100 gramos de cada uno de los productos que están a la venta en Deliver US.
